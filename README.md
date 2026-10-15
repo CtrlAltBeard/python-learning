@@ -41,4 +41,4 @@ This repository tracks my progress learning **Python**, from basics to automatio
   ```bash
   python3 media_sorter.py /path/to/directory
 
-## **Looking also for [Linux](https://github.com/CtrlAltBeard/bash-linux-learning/) or [Cybersecurity](https://github.com/CtrlAltBeard/cybersecurity-learning/t) resources?**
+## **Looking also for [Linux](https://github.com/CtrlAltBeard/bash-linux-learning/) or [Cybersecurity](https://github.com/CtrlAltBeard/cybersecurity-learning/) resources?**
